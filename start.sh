@@ -1,5 +1,3 @@
-#!/bin/bash
-
 git clone https://github.com/MrQwerti/circlebot.git
 cd circlebot
 

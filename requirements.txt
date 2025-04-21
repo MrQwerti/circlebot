@@ -24,4 +24,4 @@ python-dotenv==1.1.0
 tqdm==4.67.1
 typing_extensions==4.13.1
 yarl==1.19.0
-yt-dlp==2025.3.31
+ffmpeg-python
